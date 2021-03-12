@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.egit.core.GitProvider">
+<project reference="1.0,git@github.com:eMoflon-CEP/benchmark.git,main,BenchmarkGrapeL"/>
+<project reference="1.0,git@github.com:eMoflon-CEP/benchmark.git,main,FlightGrapeLLoadApama"/>
+<project reference="1.0,git@github.com:eMoflon-CEP/benchmark.git,main,FlightGrapeLLoadEMoflon"/>
+<project reference="1.0,git@github.com:eMoflon-CEP/examples.git,main,Flights"/>
+</provider>
+<workingSets editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1607358873901_7" label="benchmarks" name="benchmarks">
+<item elementID="=BenchmarkGrapeL" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSets>
+<workingSets editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1593507793709_3" label="metamodels" name="metamodels">
+<item elementID="=Flights" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSets>
+<workingSets editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1615551772993_8" label="grapel-examples" name="grapel-examples">
+<item elementID="=FlightGrapeLLoadApama" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=FlightGrapeLLoadEMoflon" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSets>
+</psf>
